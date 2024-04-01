@@ -4,7 +4,7 @@ use scraper::{Html, Selector};
 use std::collections::HashSet;
 use tokio;
 use csv::Writer;
-use ego_tree::NodeRef;
+//use ego_tree::NodeRef;
 
 //Mise en place de la fonction asynchrone
 #[tokio::main]
