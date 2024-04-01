@@ -12,7 +12,6 @@ https://www.graeco-arabic-studies.org/home.html.
 Objectif du programme : 
 -Scraper le code source de 
 
-Alors certe, tout n'est pas parfait dans ce code, mais j'en suis extrêment fière au vu de mon parcours et ai hâte d'en apprendre beaucoup plus dans mon futur BUT Informatique.
 
 
 
